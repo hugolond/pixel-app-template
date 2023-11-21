@@ -1,7 +1,7 @@
 {
-  "name": "YOURAPPNAME",
-  "vendor": "vtex",
-  "version": "0.0.1",
+  "name": "theme",
+  "vendor": "casaspernambucanas",
+  "version": "0.1.0",
   "title": "CHANGEME",
   "description": "CHANGEME",
   "billingOptions": {
@@ -25,7 +25,7 @@
     "vtex.pixel-interfaces": "1.x"
   },
   "settingsSchema": {
-    "title": "YOUR APP NAME",
+    "title": "Casas Pernambucanas",
     "type": "object",
     "properties": {
       "gtmId": {

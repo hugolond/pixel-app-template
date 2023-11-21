@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+
 ### Added
 
 - Add interface for newsletter subscription event
+## [0.1.0] - 2020-11-21
+###  Added
+- `checkout-instore-custom.css` and `checkout-instore-custom.js` to template.
